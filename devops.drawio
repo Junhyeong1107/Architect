@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T19:42:07.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4UqtES0H1j5rxszAYzlG" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T19:52:41.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rarvD4MHQUqQ3syielQZ" version="24.7.1" type="github">
   <diagram name="페이지-1" id="govlIPcVuCTkNT_6EK9A">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,24 +87,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5ejQvmC1aoKDz551YWJn-32" value="pipline 조회" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5ejQvmC1aoKDz551YWJn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ejQvmC1aoKDz551YWJn-35">
+        <mxCell id="5ejQvmC1aoKDz551YWJn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ejQvmC1aoKDz551YWJn-35" target="5ejQvmC1aoKDz551YWJn-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="460" as="targetPoint" />
+            <mxPoint x="570" y="470" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5ejQvmC1aoKDz551YWJn-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5ejQvmC1aoKDz551YWJn-35" target="5ejQvmC1aoKDz551YWJn-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ejQvmC1aoKDz551YWJn-35" value="pipline status" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="430" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5ejQvmC1aoKDz551YWJn-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5ejQvmC1aoKDz551YWJn-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="5ejQvmC1aoKDz551YWJn-40" value="Logs&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5ejQvmC1aoKDz551YWJn-41" value="EC2 ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ejQvmC1aoKDz551YWJn-43" value="Fail" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5ejQvmC1aoKDz551YWJn-46" value="Success" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
