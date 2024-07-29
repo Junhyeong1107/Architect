@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-29T09:06:06.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2ZPuRagW5VFMYFRHn6Ab" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-29T09:06:29.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NZjlqeHfaq66BUs62_6P" version="24.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
         <mxCell id="pmGdqVMIsXKz8pEKTWjR-30" value="결과 출력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="575" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pmGdqVMIsXKz8pEKTWjR-33" value="소비데이터 출력&lt;div&gt;/accout_book&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pmGdqVMIsXKz8pEKTWjR-33" value="소비데이터 월별 시각화&lt;div&gt;/accout_book&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
