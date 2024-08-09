@@ -25,9 +25,6 @@
         <mxCell id="pmGdqVMIsXKz8pEKTWjR-4" value="ID 확인&lt;div&gt;/login&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="288" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pmGdqVMIsXKz8pEKTWjR-8" value="회원가입&lt;div&gt;/signup&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="CNPABHZbF_ML2ywuMDAk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pmGdqVMIsXKz8pEKTWjR-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="575" as="targetPoint" />
